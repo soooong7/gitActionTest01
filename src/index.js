@@ -1,5 +1,5 @@
 // computes a factorial of a given positive integer
-// version 1 -> 2
+// version 1 -> 2 -> 3
 function factorial(n) {
 
     if( n < 0 ) {
